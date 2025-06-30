@@ -30,5 +30,5 @@ A simple, minimalistic Todo List app built with **pure HTML, CSS, and JavaScript
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/iamsyedbilal/your-repo.git
+   git clone https://github.com/iamsyedbilal/todo_js
    ```
